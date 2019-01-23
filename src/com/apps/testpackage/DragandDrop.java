@@ -10,8 +10,8 @@ import org.openqa.selenium.interactions.Actions;
 
 public class DragandDrop {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) { 
+		// TODO Auto-generated method stub Test git commit changes
 		System.setProperty("webdriver.chrome.driver", "/Users/saidinesh/eclipse-workspace/Drivers/chromedriver");
 		WebDriver driver = new ChromeDriver();
 		//WebDriverWait wait = new WebDriverWait(driver,10);
